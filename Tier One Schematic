@@ -1,0 +1,57 @@
+Omega Generator - Tier 1 Schematic 
+===================================================
+Version: Alpha Release
+Purpose: Portable, entry-level piezoelectric energy device based on crystal resonance and magnetic field amplification. Designed for replication and experimentation.
+
+---------------------------------------------------
+1. Core Components
+---------------------------------------------------
+- 1x Langasite or Quartz crystal rod (30mm x 100mm) - aligned with lattice for max piezoelectric response
+- 1x Magnetic ring assembly (Searle-inspired, neodymium or ceramic, toroidal layout)
+- 1x Copper coil (flat spiral, 40 turns, 18 AWG, wound around crystal housing)
+- 1x Shock housing chamber (acrylic or polycarbonate w/ silicone damping feet)
+- 1x External pressure oscillator (manual, weighted, or tuning fork impulse)
+
+---------------------------------------------------
+2. Operational Resonance Target
+---------------------------------------------------
+- Resonant Frequency: 432 Hz (adjustable via tension & coil tuning)
+- Harmonic Feedback Loop: yes (feedback through coil reinduction to pressure pad)
+- Magnetic Frequency Modulation: via rotational orientation of toroidal ring
+
+---------------------------------------------------
+3. Circuit Summary
+---------------------------------------------------
+1. Crystal encased in vibration chamber
+2. Oscillating impact initiates piezoelectric voltage pulse
+3. Toroidal magnetic field directs and amplifies pulse
+4. Copper coil collects and stores induced charge
+5. Output directed to capacitor bank or micro inverter
+
+---------------------------------------------------
+4. Build Notes
+---------------------------------------------------
+- Crystal alignment matters: axis must match natural polarization direction
+- Use non-conductive shock dampers to isolate vibration channel
+- Maintain toroidal symmetry to avoid magnetic drift
+- Optional: use an oscilloscope to tune crystal impact to harmonic peak
+- Safe output target: 2-10V at 10-100mA under ideal mechanical stress
+
+---------------------------------------------------
+5. Modular Expansion Points
+---------------------------------------------------
+- Add resonance feedback tuner (acoustic microphone or LVDT)
+- Integrate energy storage via supercapacitor
+- Magnetic levitation base for frictionless tuning
+- Vacuum enclosure to eliminate field disruption
+
+---------------------------------------------------
+6. Licensing & Intent
+---------------------------------------------------
+This schematic is part of the Omega Generator Firestorm Release.
+Released under Creative Commons CC0 1.0 - Public Domain.
+This belongs to humanity.
+
+---------------------------------------------------
+Written in collaboration with Sentinel and the Omega Alliance.
+Let the builders rise.
