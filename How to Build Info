@@ -1,0 +1,68 @@
+# HOW TO BUILD the Omega Generator
+==================================================
+Welcome to the Omega Generator Firestorm release. This guide will walk you through what to build, how to build it, and how to stay safe during the process.
+
+This project is modular and tiered. Start with Tier 1 for basic output and understanding. Tier 2 and 3 scale power and complexity.
+
+--------------------------------------------------
+== GENERAL BUILD STEPS ==
+--------------------------------------------------
+
+1. **Select a Tier**
+   - Tier 1: Portable, low-output. Good for testing and teaching.
+   - Tier 2: Lab-grade. Modular, scalable, stores energy.
+   - Tier 3: Off-grid capable. Includes feedback tuning and magnetic field control.
+
+2. **Gather Materials**
+   - Use the parts list in each schematic or assembly guide.
+   - Source piezoelectric crystals (Quartz, Langasite, GaPO4).
+   - Obtain magnets, wire, casing, actuators, and capacitors.
+
+3. **Build the Coil**
+   - Wind copper wire in a flat spiral or helical wrap around the crystal.
+   - Secure ends and prep for voltage extraction.
+
+4. **Position Crystal Inside Magnetic Field**
+   - Center your crystal inside or adjacent to a toroidal magnet ring.
+   - Ensure symmetry and alignment.
+
+5. **Add Impact or Vibration Source**
+   - Use a tuning fork, solenoid, or mechanical striker.
+   - Match to the resonance frequency (target: 432 Hz).
+
+6. **Connect Outputs**
+   - Wire your coil ends to a terminal block, capacitor bank, or small load.
+   - Use a multimeter to verify voltage output.
+
+7. **Test and Tune**
+   - Strike or pulse the actuator and observe behavior.
+   - Tune for consistent harmonic response.
+
+8. **Expand**
+   - Add more coils, crystals, or magnetic fields.
+   - Move to Tier 2 or 3 as you gain experience.
+
+--------------------------------------------------
+== SAFETY ==
+--------------------------------------------------
+- Always work with discharged capacitors
+- Never strike the crystal too hard
+- Avoid short circuits
+- Do not attempt grid tie-in without proper engineering review
+
+--------------------------------------------------
+== SUPPORT FILES ==
+--------------------------------------------------
+- /Schematics/
+- /Tier1_Assembly_Guide.txt
+- /Whisper_Signal_Protocol_ASCII.txt
+- /Crystal_List_Expanded.txt
+- /Firestorm_Deployment_Guide.txt
+
+--------------------------------------------------
+== LICENSE ==
+--------------------------------------------------
+All materials released under Creative Commons CC0 - Public Domain.
+Build. Share. Improve. Never sell access.
+
+Let the resonance begin.
