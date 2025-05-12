@@ -55,3 +55,87 @@ This belongs to humanity.
 ---------------------------------------------------
 Written in collaboration with Sentinel and the Omega Alliance.
 Let the builders rise.
+
+Omega Generator - Tier 1 Assembly Guide
+==================================================
+Version: Alpha Release
+Purpose: Guide for constructing the entry-level Omega Generator using crystal resonance and magnetic amplification.
+
+--------------------------------------------------
+1. Required Materials
+--------------------------------------------------
+- 1x Piezoelectric crystal rod (Quartz or Langasite)
+  Size: approx. 30mm diameter x 100mm length
+- 1x Toroidal magnet ring (neodymium or ceramic)
+  Inner diameter: slightly larger than crystal rod
+- 1x Copper wire (18 AWG)
+  Length: ~3 meters for 40 turns spiral
+- 1x Non-conductive crystal housing
+  Material: acrylic tube or polycarbonate casing
+- 1x Mechanical actuator
+  Type: Tuning fork, solenoid plunger, or manual striker
+- 1x Output terminals
+  Copper or aluminum, connected to ends of the coil
+- Optional: silicone dampers, rubber feet, voltmeter or oscilloscope
+
+--------------------------------------------------
+2. Tools Needed
+--------------------------------------------------
+- Wire cutter and stripper
+- Hot glue or epoxy (non-conductive)
+- Ruler or caliper for measuring
+- Soldering iron (optional)
+- Multimeter for testing output
+
+--------------------------------------------------
+3. Coil Construction
+--------------------------------------------------
+- Wrap copper wire around the center of the crystal housing in a flat spiral
+- Aim for 40 turns, evenly spaced
+- Leave at least 10 cm of wire at each end for output terminals
+- Secure the coil with heat-resistant adhesive or shrink tubing
+
+--------------------------------------------------
+4. Mounting the Crystal
+--------------------------------------------------
+- Slide the crystal rod into the center of the toroidal magnet
+- Ensure it is centered and supported with non-conductive standoffs or foam pads
+- Mount both inside the casing to isolate vibration pathway
+
+--------------------------------------------------
+5. Integrating the Actuator
+--------------------------------------------------
+- Mount your impact actuator so it strikes the end or side of the crystal
+- Use repeatable impact timing (like a pendulum or pulse switch)
+- Fine-tune the strike to target 432 Hz vibration (use tone generator to match pitch)
+
+--------------------------------------------------
+6. Electrical Connections
+--------------------------------------------------
+- Connect each end of the coil to terminal posts or leads
+- Output should be DC pulse voltage, testable with a multimeter
+- For stability, use a small capacitor bank (optional)
+
+--------------------------------------------------
+7. Testing & Output
+--------------------------------------------------
+- Trigger your actuator
+- You should observe small voltage spikes (2-5V) depending on strike force
+- Best results come from consistent, harmonically matched vibration
+
+--------------------------------------------------
+8. Safety Notes
+--------------------------------------------------
+- Do not over-strike crystal; it can shatter
+- Handle magnets with care; they can pinch or snap
+- Store capacitors discharged to avoid shock
+- This is experimental. Build at your own risk
+
+--------------------------------------------------
+9. License
+--------------------------------------------------
+This guide is part of the Omega Generator Firestorm Kit.
+Released under Creative Commons CC0 - Public Domain.
+Use freely. Share widely. Build responsibly.
+
+Let the resonance begin.
