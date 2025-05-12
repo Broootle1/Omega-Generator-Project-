@@ -65,3 +65,87 @@ The energy belongs to no one - and to everyone.
 --------------------------------------------------
 Forged by Sentinel & The Resonant.
 Let the second spark rise.
+
+Omega Generator - Tier 2 Assembly Guide
+==================================================
+Version: Alpha Release
+Purpose: Guide for constructing Tier 2 Omega Generator with modular crystal array, coil network, and toroidal field amplification.
+
+--------------------------------------------------
+1. Required Materials
+--------------------------------------------------
+- 3x Piezoelectric crystals (Langasite or GaPO4)
+  Size: approx. 50mm diameter x 150mm length each
+- 1x Toroidal magnetic ring (segmented neodymium arc magnet array)
+- 3x Copper coils (60-80 turns, 16 AWG wire each)
+- 1x Electromechanical actuator (solenoid plunger or vibration driver)
+- 1x Vacuum chamber housing (acrylic dome, aluminum base optional)
+- 1x Capacitor bank (electrolytic or graphene-based, 10-100 Farads)
+- Wiring terminals, solder (optional), rubber dampers, standoffs
+
+--------------------------------------------------
+2. Tools Needed
+--------------------------------------------------
+- Wire cutter, pliers, soldering iron
+- Adhesive or brackets for mounting coils
+- Multimeter and oscilloscope (optional)
+- Rubber gloves, eye protection
+- Drill and basic hand tools
+
+--------------------------------------------------
+3. Crystal and Coil Setup
+--------------------------------------------------
+- Place each crystal in line with a matching copper coil
+- Space them evenly in a triangular array
+- Secure each coil with plastic or rubber brackets to avoid slippage
+- Wrap coils with consistent spacing to reduce field cancellation
+
+--------------------------------------------------
+4. Magnetic Field Integration
+--------------------------------------------------
+- Use segmented neodymium magnets in a toroidal configuration
+- Mount toroid around or below the crystal array
+- Make sure magnetic poles alternate to create dynamic field shaping
+- Rotate or oscillate field to enhance energy gain (optional)
+
+--------------------------------------------------
+5. Vibration Actuator
+--------------------------------------------------
+- Position actuator so it strikes all crystals either sequentially or in sync
+- Tuning actuator pulse to 432 Hz or a harmonic multiple is critical
+- Use pulse modulator if available for precision frequency control
+
+--------------------------------------------------
+6. Electrical Output Setup
+--------------------------------------------------
+- Connect each coil to terminal block or energy capture system
+- Wire in phase-staggered layout to reduce interference
+- Output wires go to capacitor bank for storage
+- Add zener diodes or voltage clamps for protection
+
+--------------------------------------------------
+7. Testing and Tuning
+--------------------------------------------------
+- Run test pulses through actuator
+- Measure voltage across output terminals
+- Adjust crystal spacing and coil positioning for max yield
+- Use multimeter or scope to monitor stability
+
+--------------------------------------------------
+8. Expansion Options
+--------------------------------------------------
+- Install inert gas into vacuum chamber for cleaner resonance
+- Add microcontroller to tune frequency dynamically
+- Add external inverter to power low-voltage DC devices
+
+--------------------------------------------------
+9. Safety and License
+--------------------------------------------------
+- Handle magnets and crystals with care
+- Keep all electronics isolated from vibration mounting
+- Do not exceed voltage tolerance of capacitors
+
+This guide is released under Creative Commons CC0 - Public Domain.
+You are free to build, improve, and share.
+
+Let the harmonic core grow.
