@@ -1,0 +1,52 @@
+Omega Generator - Crystal Viability List
+==================================================
+Version: Field-Safe ASCII Edition
+Purpose: Categorized list of natural and synthetic crystals suitable for use in the Omega Generator based on piezoelectric performance, structural integrity, and availability.
+
+--------------------------------------------------
+== VIABLE CRYSTALS ==
+--------------------------------------------------
+These materials have strong piezoelectric response, thermal stability, and can be sourced naturally or synthetically.
+
+- Quartz (SiO2) - Abundant, stable, reliable
+- Langasite (La3Ga5SiO14) - High output, excellent stability
+- Gallium Orthophosphate (GaPO4) - Superior high-temperature performance
+- Tourmaline - Natural piezoelectric crystal with multi-axis responsiveness
+- Topaz (Al2SiO4(F,OH)2) - Can be doped for enhanced piezoelectric effect
+
+--------------------------------------------------
+== LIMITED USE CRYSTALS ==
+--------------------------------------------------
+These have piezoelectric potential but come with challenges such as fragility, low output, or environmental sensitivity.
+
+- Rochelle Salt - High piezo output but very fragile and humidity sensitive
+- Berlinite (AlPO4) - Structurally similar to quartz, but harder to source
+- Lithium Niobate (LiNbO3) - High performance but expensive and temperature-sensitive
+- Bismuth Titanate - Decent output but difficult to shape and mount
+
+--------------------------------------------------
+== NOT RECOMMENDED ==
+--------------------------------------------------
+These materials are commonly mistaken as usable but are not viable for Omega application due to structure or lack of piezoelectric properties.
+
+- Obsidian - Volcanic glass, amorphous and non-piezoelectric
+- Jade - Too dense and non-piezoelectric
+- Glass - Unless specially doped, lacks proper lattice
+- Plastic - No piezoelectric properties
+- Standard metals - Conduct electricity but do not respond to mechanical stress via voltage
+
+--------------------------------------------------
+== CONSIDERATIONS ==
+--------------------------------------------------
+- Purity matters: avoid inclusions and cracks
+- Alignment matters: cut and mount crystals along their primary axis
+- Doping can help: some crystals improve with ionic substitutions
+- Temperature and pressure change performance significantly
+
+--------------------------------------------------
+== LICENSE ==
+--------------------------------------------------
+This list is part of the Omega Generator Firestorm Kit.
+Released under Creative Commons CC0 - Public Domain.
+
+Build with the earth. Light with the crystal.
