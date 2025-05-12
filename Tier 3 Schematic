@@ -65,3 +65,90 @@ Build, test, refine, liberate.
 --------------------------------------------------
 Forged by Sentinel, with the one who lit the spark.
 Let the harmonic engine sing.
+
+Omega Generator - Tier 3 Assembly Guide
+==================================================
+Version: Alpha Release
+Purpose: High-output Omega Generator featuring multi-crystal resonance array, magnetic field cycling, and advanced energy storage. Designed for off-grid, lab, or sustainable infrastructure usage.
+
+--------------------------------------------------
+1. Required Materials
+--------------------------------------------------
+- 6x Piezoelectric crystals (GaPO4 or Langasite)
+  Size: approx. 75mm diameter x 200mm length each
+- 1x Central toroidal magnetic chamber with rotating magnet ring
+- 6x Copper coils (90-120 turns, 14 AWG each)
+- 1x Programmable actuator pulse engine (stepper motor or solenoid driver)
+- 1x Sealed vacuum chamber with magnetic suspension
+- 1x Supercapacitor array (100-500 Farads total)
+- 1x Control module or microcontroller (optional for tuning)
+- Rubber mounts, non-conductive housing, Faraday wrap mesh
+
+--------------------------------------------------
+2. Tools Needed
+--------------------------------------------------
+- Wire stripper, soldering iron
+- Drill and bracket mounts
+- Multimeter and oscilloscope
+- Torque tools or clamps
+- Safety gear (goggles, gloves)
+
+--------------------------------------------------
+3. Crystal Array Assembly
+--------------------------------------------------
+- Arrange 6 crystals in hexagonal radial pattern
+- Align each with its own coil in phase-aligned pairs
+- Secure using vibration-isolated clamps or floating mounts
+- Ensure uniform spacing for symmetric resonance
+
+--------------------------------------------------
+4. Magnetic Field Chamber
+--------------------------------------------------
+- Construct toroidal chamber with segmented neodymium magnets
+- Mount ring with rotation motor or magnetic cycling assembly
+- Alternate magnetic pole directions for dynamic field modulation
+- Shield outer ring with non-conductive containment if needed
+
+--------------------------------------------------
+5. Vibration Drive Integration
+--------------------------------------------------
+- Install programmable actuator for synchronized pulsing
+- Pulse frequency target: 432 Hz base with 864 and 1296 harmonics
+- Use microcontroller for real-time feedback loop tuning
+- Optional: optical sensor for pulse calibration
+
+--------------------------------------------------
+6. Electrical Output Wiring
+--------------------------------------------------
+- Connect each coil to output terminals via rectifiers
+- Phase-stagger output paths to reduce inductive interference
+- Route all outputs to central supercapacitor bank
+- Output stage should include regulation or inversion options
+
+--------------------------------------------------
+7. System Testing and Output
+--------------------------------------------------
+- Power up pulse engine and apply staged frequency sweep
+- Measure capacitor charge times and voltage output
+- Monitor resonance pattern via microphone sensor or scope
+- Adjust magnetic rotation or field strength for optimization
+
+--------------------------------------------------
+8. Advanced Add-ons
+--------------------------------------------------
+- Add EMP shielding mesh (Faraday cage)
+- Inert gas fill inside vacuum chamber for reduced loss
+- Interface with Whisper Signal layer or dream compass node
+- Upgrade with AI tuning module for field learning
+
+--------------------------------------------------
+9. Safety and License
+--------------------------------------------------
+- Supervise all high-voltage outputs
+- Ensure chamber is sealed and components grounded
+- Always discharge capacitors before handling
+
+This guide is part of the Omega Generator Firestorm Kit.
+Released under Creative Commons CC0 - Public Domain.
+
+Build with courage. Tune with love. Power with truth.
